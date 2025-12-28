@@ -1,0 +1,87 @@
+{
+  "theme": {
+    "primaryBg": "#0a192f",
+    "secondaryBg": "#112240",
+    "cardBg": "#172a46",
+    "accentPurple": "#6366f1",
+    "accentLightPurple": "#818cf8",
+    "textPrimary": "#6366f1",
+    "textSecondary": "#8892b0",
+    "highlight": "#64ffda"
+  },
+  "name": "Mallikarjuna Maneri",
+  "shortName": "Mallikarjuna",
+  "title": "Software Development Engineer",
+  "greeting": "Hi, I'm",
+  "tagline": "Building scalable web applications and robust automation frameworks",
+  "profilePic": "./assets/images/profile.jpg",
+  "email": "manerumalli@gmail.com",
+  "location": "Hyderabad, India",
+  "stats": {
+    "experience": "2+ Years",
+    "performanceImprovement": "20%",
+    "automationReduction": "30%",
+    "problemsSolved": "200+"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/mallikarjuna-maneri-1597b61b0",
+    "github": "https://github.com/malli172"
+  },
+  "about": {
+    "intro": "Software Development Engineer with 2+ years of experience in building scalable web applications and automation frameworks using Java, Spring Boot, React.js, and Taiko.",
+    "details": "Strong experience in RESTful API development, performance optimization, and automation testing. Proven ability to reduce manual testing efforts, improve system efficiency, and collaborate across teams in Agile environments. Passionate about delivering high-performance, customer-centric solutions for large-scale products."
+  },
+  "education": [
+    {
+      "institution": "Rajeev Gandhi Memorial College of Engineering and Technology",
+      "years": "2019 — 2023",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "score": "CGPA: 8.1"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Software Engineer",
+      "subtitle": "Automation Testing",
+      "years": "Nov 2023 — Present",
+      "company": "ANZ Offsite",
+      "description": "Developed a JavaScript-based automation testing framework using Taiko, reducing manual testing efforts by 30%. Improved cross-browser test coverage by 40% and reduced bug leakage by 25%."
+    },
+    {
+      "position": "Associate Software Engineer",
+      "subtitle": "Backend & Web Development",
+      "years": "Jan 2023 — Oct 2023",
+      "company": "Virtusa",
+      "description": "Built and optimized RESTful APIs using Spring Boot and Angular for an online exam portal. Reduced API response times by 20% and improved admin efficiency by 15%."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        {"name": "Java", "level": 90},
+        {"name": "JavaScript", "level": 85},
+        {"name": "Python", "level": 75},
+        {"name": "HTML", "level": 80},
+        {"name": "CSS", "level": 75}
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": [
+        {"name": "Spring Boot", "level": 90},
+        {"name": "React.js", "level": 80},
+        {"name": "Taiko", "level": 85},
+        {"name": "Angular", "level": 75}
+      ]
+    }
+  ],
+  "certifications": [
+    {"title": "Oracle Certified Java Programmer"}
+  ],
+  "interests": ["Web Development", "Scalable Systems", "Automation Testing"],
+  "achievements": [
+    {"title": "Competitive Programming", "description": "Solved 200+ problems on LeetCode"}
+  ],
+  "resumeFile": "./assets/resume/Mallikarjuna_Maneri_Resume.pdf"
+}
