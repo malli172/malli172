@@ -1,120 +1,88 @@
-# 👋 Hi, I'm Malli172 - Mobile App Developer
+# 👋 Mallikarjuna Maneri - Software Development Engineer
 
-## Professional Mobile App Developer | Flutter | Android | iOS
+## Professional Summary
 
-Welcome to my GitHub profile! I'm a dedicated mobile application developer with **3+ years of professional experience** creating high-quality applications across Android, iOS, and Flutter platforms.
+Results-driven Software Development Engineer with hands-on experience in building scalable backend systems and automation solutions. Proficient in Java, Spring Boot, and modern development practices. Dedicated to writing clean, maintainable code and developing efficient solutions for complex problems.
 
 ---
 
 ## 🚀 Skills & Expertise
 
-### Mobile Development Platforms
-- **Flutter** - Cross-platform development with Dart
-- **Android** - Native Android development using Kotlin and Java
-- **iOS** - Native iOS development using Swift
+### Core Technical Skills
+- **Languages**: Java, JavaScript, Python
+- **Backend Frameworks**: Spring Boot, Spring Framework
+- **Frontend**: React.js, HTML5, CSS3
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms**: Taiko, Git, Jenkins, Docker, Kubernetes
+- **Architecture**: Microservices, RESTful APIs, MVC Pattern
+- **Testing**: JUnit, Selenium, Integration Testing
 
-### Technical Skills
-- **Architecture Patterns**: MVC, MVVM, Clean Architecture, BLoC
-- **Design Patterns**: Singleton, Factory, Observer, Builder
-- **Microservices Architecture** - Understanding and implementation
-- **APIs & Networking** - RESTful APIs, HTTP, JSON parsing
-- **Databases** - SQLite, Firebase Realtime Database, Firestore
-- **Version Control** - Git, GitHub
-- **UI/UX Design** - Material Design, iOS HIG compliance
+### Development Expertise
+- Developing scalable backend systems using Spring Boot
+- Building responsive web interfaces with React.js
+- Implementing automation testing frameworks (Taiko)
+- Designing and implementing microservices architecture
+- Database design and optimization
+- API development and integration
 
 ---
 
 ## 💼 Professional Experience
 
-### Mobile Application Development (3+ years)
-- Developed and launched multiple apps on Google Play Store
-- Implemented MVVM and Clean Architecture patterns
-- Worked with RESTful APIs and microservices
-- Optimized app performance and user experience
-- Experience in payer domain projects
+### ANZ Offsite
+**Role**: Software Development Engineer
+- Contributed to the development of backend services using Spring Boot
+- Implemented REST APIs for various business requirements
+- Participated in code reviews and architectural discussions
+- Worked on database optimization and query performance
+
+### Virtusa
+**Role**: Software Development Engineer
+- Developed and maintained Java-based applications
+- Implemented automation testing using Taiko framework
+- Collaborated with cross-functional teams on software development projects
+- Contributed to continuous integration and deployment pipelines
 
 ---
 
-## 🎨 Featured Projects
+## 🎓 Education
 
-### Android Projects
-- **Flight Management System** - Complete flight booking application
-- **Zomato Clone** - Food delivery platform clone
-- **Vehicle Rental System** - Car rental management app
-- **OTT Data Visualization** - Over-the-top media platform
-
-### Flutter Projects
-- Cross-platform applications with shared codebase
-- Firebase integration
-- State management using BLoC pattern
-
-### iOS Projects
-- Native iOS applications using Swift
-- iOS App Store deployment experience
-
-### Machine Learning & Analytics
-- **Detection of Cyberbullying** - ML-based text analysis
+### B.Tech - Rajeev Gandhi Memorial College
+**CGPA**: 8.1
+- Coursework: Data Structures, Algorithms, Database Management, Web Development
+- Capstone Project: [Project details]
 
 ---
 
-## 📚 Currently Learning & Exploring
-- Advanced Flutter patterns and optimization
-- Microservices architecture best practices
-- Design patterns in mobile development
-- App automation and CI/CD workflows
+## 📊 Key Achievements
+
+- Successfully delivered multiple production-ready applications
+- Improved application performance through code optimization
+- Implemented automation testing reducing manual test efforts
+- Contributed to microservices migration of legacy systems
 
 ---
 
-## 🌐 Portfolio Website
-This repository serves as my GitHub Pages portfolio. Visit my hosted portfolio to see detailed project showcases, code samples, and more.
+## 🔗 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/malli172](https://linkedin.com/in/malli172)
+- **GitHub**: [github.com/malli172](https://github.com/malli172)
+- **Email**: mallikarjunamaneri@example.com
 
 ---
 
-## 💡 What I'm Looking For
-- Remote or Part-time Developer Roles
-- Freelance Projects on platforms like Upwork, Naukri, FlexJobs
-- Opportunities to work with innovative teams
-- Challenging projects that expand my skillset
+## 📋 Portfolio Website
+
+This repository serves as the main portfolio website for **Mallikarjuna Maneri**. The site is built with:
+- **HTML5** for structure
+- **CSS3** for styling and responsive design
+- **JavaScript** for interactivity
+- **data.json** for dynamic content loading
+
+Visit the live website at: [mallikarjunamaneri.com](https://mallikarjunamaneri.com)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=malli172&show_icons=true&theme=dark)
+## 📝 License
 
----
-
-## 📝 Featured Repositories
-- [Flight Management](https://github.com/malli172/flight_management)
-- [Zomato Clone Frontend](https://github.com/malli172/Zomato-clone-frontend)
-- [Vehicle Rental System](https://github.com/malli172/Vehicle-Rental-System)
-- [Food Delivery App](https://github.com/malli172/foodapp)
-- [Cyberbullying Detection](https://github.com/malli172/Detection-of-cyberbullying-tweets-using-machine-learning)
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
-- 💻 GitHub: [@malli172](https://github.com/malli172)
-
----
-
-## 📞 How to Reach Me
-
-- **For Project Inquiries**: Reach out via email or LinkedIn
-- **For Remote Opportunities**: Check platforms like Upwork, Naukri, FlexJobs
-- **For Collaborations**: Open to exciting project opportunities!
-
----
-
-## 🎯 My Goals
-- Build scalable and maintainable mobile applications
-- Contribute to open-source projects
-- Mentor junior developers
-- Stay updated with latest mobile development trends
-
----
-
-*Happy Coding! Feel free to explore my repositories and get in touch if you'd like to collaborate.*
+MIT License - Feel free to use this repository as a reference for your own portfolio.
