@@ -1,0 +1,397 @@
+{
+  "theme": {
+    "primaryBg": "oklch(8% 0.01 270)",
+    "secondaryBg": "oklch(12% 0.02 260)",
+    "cardBg": "oklch(100% 0 0 / 0.05)",
+    "accentPrimary": "oklch(60% 0.2 250)",
+    "accentSecondary": "oklch(65% 0.2 40)",
+    "textPrimary": "oklch(60% 0.2 250)",
+    "textSecondary": "oklch(80% 0.02 280)",
+    "highlight": "oklch(70% 0.15 180)"
+  },
+  "name": "Mallikarjuna Maneri",
+  "shortName": "Mallikarjuna",
+  "title": "Full Stack Java Developer",
+  "greeting": "Hi, I'm",
+  "tagline": "Building scalable enterprise applications with Java, Spring Boot, and modern web technologies",
+  "profilePic": "./assets/images/profile.jpg",
+  "email": "manerumalli@gmail.com",
+  "location": "Hyderabad, India",
+  "stats": {
+    "experience": "2+ Years",
+    "automationImprovement": "30% reduction",
+    "apiOptimization": "20% faster",
+    "testCoverage": "40% increase"
+  },
+  "featuredApp": {
+    "name": "ANZ Banking Automation",
+    "tagline": "Enterprise testing framework",
+    "icon": "fas fa-robot",
+    "rating": "4.8",
+    "testCases": "500+",
+    "coverage": "85%+",
+    "tags": [
+      "Taiko",
+      "JavaScript",
+      "Automation",
+      "Banking",
+      "Enterprise"
+    ],
+    "description": "Developed comprehensive automation testing framework using Taiko, reducing manual testing efforts by 30% and improving cross-browser test coverage by 40%."
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/mallikarjuna-maneri-1597b61b0",
+    "github": "https://github.com/malli172"
+  },
+  "about": {
+    "intro": "Results-driven Full Stack Java Developer with 2+ years of hands-on experience in designing, developing, and deploying scalable enterprise web applications. Specialized in Java, Spring Boot, React.js, and modern automation frameworks, with a strong foundation in building high-performance, reliable solutions that deliver exceptional business value.",
+    "details": "Experienced in the complete software development lifecycle, from requirement analysis and system design to development, testing, deployment, and maintenance. Proficient in RESTful API development, microservices architecture, database optimization, and automation testing. Strong advocate of clean code principles, test-driven development, and continuous improvement. Demonstrated ability to reduce manual testing efforts, optimize system performance, and collaborate effectively with cross-functional teams in Agile environments."
+  },
+  "services": [
+    {
+      "title": "Backend Development",
+      "description": "Building robust and scalable server-side applications using Java and Spring Boot.",
+      "icon": "fas fa-server"
+    },
+    {
+      "title": "Frontend Development",
+      "description": "Creating responsive and interactive user interfaces with React.js and modern web technologies.",
+      "icon": "fas fa-laptop-code"
+    },
+    {
+      "title": "Automation Testing",
+      "description": "Developing comprehensive test automation frameworks to ensure software quality and reliability.",
+      "icon": "fas fa-vial"
+    },
+    {
+      "title": "API Development",
+      "description": "Designing and implementing RESTful APIs for seamless system integration and communication.",
+      "icon": "fas fa-plug"
+    },
+    {
+      "title": "Microservices",
+      "description": "Architecting and developing microservices-based applications for scalability and maintainability.",
+      "icon": "fas fa-cubes"
+    },
+    {
+      "title": "DevOps & CI/CD",
+      "description": "Implementing continuous integration and deployment pipelines using Jenkins and Docker.",
+      "icon": "fas fa-infinity"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rajeev Gandhi Memorial College of Engineering and Technology",
+      "years": "2019 — 2023",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "score": "CGPA: 8.1"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Software Engineer",
+      "subtitle": "Automation Testing & Full Stack Development",
+      "years": "Nov 2023 — Present",
+      "company": "ANZ Offsite",
+      "description": "Developed a JavaScript-based automation testing framework using Taiko, reducing manual testing efforts by 30%. Improved cross-browser test coverage by 40% and reduced bug leakage by 25%. Collaborated with backend teams to integrate test automation into CI/CD pipelines."
+    },
+    {
+      "position": "Associate Software Engineer",
+      "subtitle": "Backend & Frontend Development",
+      "years": "Jan 2023 — Oct 2023",
+      "company": "Virtusa",
+      "description": "Built and optimized RESTful APIs using Spring Boot and developed frontend interfaces with React.js for an online exam portal. Reduced API response times by 20% through query optimization and caching strategies. Improved admin panel efficiency by 15% with enhanced UI/UX."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        {
+          "name": "Java",
+          "level": "95",
+          "tagline": "Enterprise backend development"
+        },
+        {
+          "name": "JavaScript",
+          "level": "85",
+          "tagline": "Modern web development"
+        },
+        {
+          "name": "Python",
+          "level": "80",
+          "tagline": "Scripting & automation"
+        },
+        {
+          "name": "SQL",
+          "level": "88",
+          "tagline": "Database queries & optimization"
+        }
+      ]
+    },
+    {
+      "category": "Backend Frameworks",
+      "items": [
+        {
+          "name": "Spring Boot",
+          "level": "95",
+          "tagline": "RESTful API development"
+        },
+        {
+          "name": "Spring Framework",
+          "level": "90",
+          "tagline": "Enterprise applications"
+        },
+        {
+          "name": "Hibernate",
+          "level": "85",
+          "tagline": "ORM framework"
+        }
+      ]
+    },
+    {
+      "category": "Frontend Technologies",
+      "items": [
+        {
+          "name": "React.js",
+          "level": "85",
+          "tagline": "Component-based UI"
+        },
+        {
+          "name": "HTML5",
+          "level": "90",
+          "tagline": "Semantic markup"
+        },
+        {
+          "name": "CSS3",
+          "level": "85",
+          "tagline": "Responsive design"
+        },
+        {
+          "name": "JavaScript ES6+",
+          "level": "88",
+          "tagline": "Modern JS features"
+        }
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        {
+          "name": "MySQL",
+          "level": "90",
+          "tagline": "Relational database"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "85",
+          "tagline": "Advanced SQL features"
+        },
+        {
+          "name": "MongoDB",
+          "level": "80",
+          "tagline": "NoSQL database"
+        }
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        {
+          "name": "Taiko",
+          "level": "90",
+          "tagline": "Test automation"
+        },
+        {
+          "name": "Git",
+          "level": "95",
+          "tagline": "Version control"
+        },
+        {
+          "name": "Jenkins",
+          "level": "80",
+          "tagline": "CI/CD automation"
+        },
+        {
+          "name": "Docker",
+          "level": "85",
+          "tagline": "Containerization"
+        },
+        {
+          "name": "Kubernetes",
+          "level": "75",
+          "tagline": "Container orchestration"
+        }
+      ]
+    },
+    {
+      "category": "Architecture",
+      "items": [
+        {
+          "name": "Microservices",
+          "level": "85",
+          "tagline": "Distributed systems"
+        },
+        {
+          "name": "RESTful APIs",
+          "level": "95",
+          "tagline": "API design & development"
+        },
+        {
+          "name": "MVC Pattern",
+          "level": "90",
+          "tagline": "Design pattern"
+        }
+      ]
+    },
+    {
+      "category": "Testing",
+      "items": [
+        {
+          "name": "JUnit",
+          "level": "90",
+          "tagline": "Unit testing"
+        },
+        {
+          "name": "Selenium",
+          "level": "85",
+          "tagline": "Web automation"
+        },
+        {
+          "name": "Integration Testing",
+          "level": "88",
+          "tagline": "API testing"
+        },
+        {
+          "name": "Test-Driven Development",
+          "level": "82",
+          "tagline": "TDD methodology"
+        }
+      ]
+    },
+    {
+      "category": "Development Practices",
+      "items": [
+        {
+          "name": "Agile/Scrum",
+          "level": "90",
+          "tagline": "Agile methodology"
+        },
+        {
+          "name": "Code Review",
+          "level": "88",
+          "tagline": "Quality assurance"
+        },
+        {
+          "name": "Clean Code",
+          "level": "85",
+          "tagline": "Best practices"
+        }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        {
+          "name": "AWS Basics",
+          "level": "70",
+          "tagline": "Cloud services"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "level": "82",
+          "tagline": "Continuous deployment"
+        },
+        {
+          "name": "Linux",
+          "level": "80",
+          "tagline": "Server administration"
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "ANZ Banking Automation Framework",
+      "role": "Test Automation",
+      "image": "./assets/images/anz_logo.png",
+      "quoteIcon": "fas fa-quote-left",
+      "review": "Developed comprehensive automation testing framework using Taiko for ANZ banking applications. Reduced manual testing by 30% and improved test coverage by 40%.",
+      "projectLink": "#"
+    },
+    {
+      "name": "Online Exam Portal",
+      "role": "Full Stack Development",
+      "image": "./assets/images/exam_portal.png",
+      "quoteIcon": "fas fa-quote-left",
+      "review": "Built scalable exam management system with Spring Boot backend and React.js frontend. Optimized API performance by 20% and enhanced admin efficiency by 15%.",
+      "projectLink": "#"
+    },
+    {
+      "name": "RESTful API Gateway",
+      "role": "Backend Development",
+      "image": "./assets/images/api_gateway.png",
+      "quoteIcon": "fas fa-quote-left",
+      "review": "Designed and implemented microservices-based API gateway for enterprise application integration. Handled 10,000+ requests per minute with 99.9% uptime.",
+      "projectLink": "#"
+    }
+  ],
+  "clients": [
+    {
+      "logo": "./assets/images/anz_logo.png",
+      "company_name": "ANZ",
+      "reference": "https://www.anz.com"
+    },
+    {
+      "logo": "./assets/images/virtusa_logo.png",
+      "company_name": "Virtusa",
+      "reference": "https://www.virtusa.com"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Performance Optimization Expert",
+      "date": "2023-Present",
+      "icon": "fas fa-tachometer-alt",
+      "image": "./assets/images/icon-performance.svg",
+      "description": "Successfully optimized application performance across multiple projects, achieving 20% average improvement in API response times and database query execution."
+    },
+    {
+      "title": "Automation Testing Pioneer",
+      "date": "2023-Present",
+      "icon": "fas fa-robot",
+      "image": "./assets/images/icon-automation.svg",
+      "description": "Pioneered automation testing initiatives at ANZ, reducing manual testing efforts by 30% and improving bug detection by 25% through comprehensive test coverage."
+    },
+    {
+      "title": "LeetCode Problem Solver",
+      "date": "Ongoing",
+      "icon": "fas fa-code",
+      "image": "./assets/images/icon-code.svg",
+      "description": "Solved 200+ algorithmic problems on LeetCode, demonstrating strong problem-solving skills and deep understanding of data structures and algorithms."
+    },
+    {
+      "title": "Full Stack Development",
+      "date": "2023-Present",
+      "icon": "fas fa-layer-group",
+      "image": "./assets/images/icon-fullstack.svg",
+      "description": "Successfully delivered end-to-end full stack applications using Java Spring Boot for backend and React.js for frontend, serving thousands of users."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Oracle Certified Java Programmer",
+      "issuer": "Oracle",
+      "date": "2023"
+    }
+  ],
+  "interests": [
+    "Full Stack Development",
+    "Scalable System Design",
+    "Automation Testing",
+    "Cloud Technologies",
+    "Problem Solving"
+  ],
+  "resumeFile": "./assets/resume/Mallikarjuna_Maneri_Resume.pdf",
+  "favicon": "./assets/images/favicon.ico"
+}
